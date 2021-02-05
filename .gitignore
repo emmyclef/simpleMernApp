@@ -1,0 +1,8 @@
+# No modules
+node_modules
+ExpressApp.njsproj
+ExpressApp.njsproj.user
+ExpressApp.sln
+obj/
+.vs/
+bin/
